@@ -24,19 +24,19 @@ You can check out the live version of this project here:
 Here are some images of the project:
 
 ### Register Page
-![Register Page]()
+![Register Page](https://raw.githubusercontent.com/Techie-Harpreet/Django-Role-Based-Access-Control-RBAC-System/refs/heads/main/Images/register-page.png)
 
 ### Login Page
-![ Login Page]()
+![ Login Page](https://raw.githubusercontent.com/Techie-Harpreet/Django-Role-Based-Access-Control-RBAC-System/refs/heads/main/Images/login-page.png)
 
 ### Admin Dashboard
-![Admin Panel]()
+![Admin Panel](https://raw.githubusercontent.com/Techie-Harpreet/Django-Role-Based-Access-Control-RBAC-System/refs/heads/main/Images/admin-dashboard.png)
 
 ### Moderator Dashboard
-![Moderator Panel]()
+![Moderator Panel](https://raw.githubusercontent.com/Techie-Harpreet/Django-Role-Based-Access-Control-RBAC-System/refs/heads/main/Images/moderator-dashboard.png)
 
 ### User Dashboard
-![User Panel]()
+![User Panel](https://raw.githubusercontent.com/Techie-Harpreet/Django-Role-Based-Access-Control-RBAC-System/refs/heads/main/Images/user-dashboard.png)
 
 These images showcase the key features of the Role-Based Access Control (RBAC) system, including user registration, login authentication, and role-specific dashboards.
 
@@ -86,4 +86,4 @@ These images showcase the key features of the Role-Based Access Control (RBAC) s
 For any queries, suggestions, or issues, feel free to reach out to us:
 
 - **Email**: contact@harpreetsinghbansal.com
-- **GitHub Repository**: [Your GitHub Repo Link](https://github.com/Techie-Harpreet/Blog-Page)
+- **GitHub Repository**: (https://github.com/Techie-Harpreet/Django-Role-Based-Access-Control-RBAC-System)
