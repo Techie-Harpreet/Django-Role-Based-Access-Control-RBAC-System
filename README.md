@@ -4,7 +4,7 @@ This project implements a **Role-Based Access Control (RBAC)** system using Djan
 ## Live Demo
 
 You can check out the live version of this project here:  
-[**Live Blog Project**](https://a-code.harpreetsinghbansal.com/)
+[**Live Project**](https://rbac.harpreetsinghbansal.com/)
 
 ---
 
